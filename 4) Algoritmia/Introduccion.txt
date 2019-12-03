@@ -1,0 +1,3 @@
+Algoritmia
+
+En esta carpeta se encontraran todos los algoritmos a realizar para la funcionalidad del proyecto a realizar
