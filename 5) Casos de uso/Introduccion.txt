@@ -1,0 +1,4 @@
+Casos de Uso
+
+En esta carpeta se encontraran todos los casos de uso a especificar para el analisis del programa y el desenvolvimiento
+del sistema con los respetctivos usuarios de la institucion educativa districal Rodolfo Llinas
