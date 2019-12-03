@@ -1,0 +1,4 @@
+Mapas de procesos
+
+En esta carpeta se puede encontrar todos los mapas de procesos a realizar por el proyecto de control de accesos de 
+usuarios en el I.R.D. Rodolfo Llinas 
