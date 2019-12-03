@@ -1,0 +1,4 @@
+Recoleccion de datos
+
+En esta carpeta se puede encontrar toda la informacion hacerca de la recoleccion de datos 
+realizada en la institucion educatiba distrital Rodolfo Llinas 
