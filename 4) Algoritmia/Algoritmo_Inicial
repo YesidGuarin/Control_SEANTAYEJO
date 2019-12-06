@@ -1,0 +1,18 @@
+           Algoritmo
+Algoritmo control de ingresos de estudiantes
+	Repetir 
+		Se llama a lista 
+		Si el estudiante esta y llego temprano
+			Esta
+		Si no Si el estudiante esta y llego tarde
+			Retardo
+		Si no Si el estudiante no esta	
+			Falla
+	Hasta que no haya más estudiantes faltantes por llamar
+	Enviar reporte a coordinación académica
+	Copiar los reportes en la lista 
+		Si un estudiante tiene 3 fallas en una semana 
+			Citación a padres
+		Si no 
+			Anexar fallas al informe
+	
